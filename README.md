@@ -38,6 +38,6 @@ Estou utilizando a convenção de commits **Conventional Commits** para manter o
 
 ## 🤝 Contato
 
-Feito com ❤️ por **[Seu Nome ou Usuário do GitHub]**.
+Feito com ❤️ por **daividalves**.
 
 [**Seu Perfil do LinkedIn**](https://www.linkedin.com/in/[seu-usuario-linkedin])
