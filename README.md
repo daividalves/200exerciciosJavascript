@@ -1,43 +1,41 @@
-# 🚀 Repositório de Exercícios de JavaScript
+# 200 Exercícios de JavaScript
 
-Bem-vindo(a) ao meu espaço de estudos e prática de JavaScript!
+Este é um projeto pessoal dedicado à minha jornada de aprendizado em JavaScript, com o objetivo de completar um total de 200 exercícios de codificação.
 
-Este repositório foi criado para registrar meu progresso e as soluções dos exercícios que estou resolvendo. O objetivo é solidificar meu conhecimento em conceitos fundamentais da linguagem.
-
----
-
-## 📚 Estrutura do Projeto
-
-Os exercícios estão organizados em pastas ou arquivos individuais, nomeados de forma clara para fácil navegação.
-
-* `[nome-da-pasta-ex: exercicios-iniciais]`: Contém as soluções dos exercícios de lógica e sintaxe básica.
-* `[nome-da-pasta-ex: arrays-e-objetos]`: Foco em estruturas de dados.
-* `[etc...]`
-
-Cada exercício será acompanhado de uma breve descrição no código, explicando a solução encontrada.
+O projeto segue uma metodologia específica para garantir a organização, a prática constante e o uso de boas práticas de controle de versão com Git.
 
 ---
 
-## ✅ Commits e Boas Práticas
+## 💻 Estrutura e Desenvolvimento
 
-Estou utilizando a convenção de commits **Conventional Commits** para manter o histórico do repositório limpo e organizado.
-
-* `feat`: Uma nova funcionalidade (um novo exercício concluído).
-* `fix`: Uma correção de bug (correção em uma solução anterior).
-* `refactor`: Refatoração de código.
+* **Pasta Principal**: O projeto está contido na pasta `200exerciciosJavascript`.
+* **Arquivos de Exercício**: Cada exercício tem seu próprio arquivo JavaScript, nomeado sequencialmente (ex: `exercicio01.js`, `exercicio02.js`, etc.).
+* **Enunciados**: O enunciado de cada exercício é incluído como um comentário no topo do respectivo arquivo.
+* **Execução**: Todos os exercícios são executados e testados no console do navegador para garantir o funcionamento correto.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ⚙️ Workflow do Git
 
-* JavaScript (ES6+)
-* Node.js (para executar os arquivos, se necessário)
-* Git & GitHub
+Para gerenciar o versionamento, sigo as seguintes regras:
+
+1.  **Commit Local**: Um commit é feito para **cada exercício concluído** individualmente.
+    * A mensagem de commit reflete o enunciado do exercício, de forma clara e sem acentos, seguindo as boas práticas.
+    * Exemplo: `git commit -m "feat: adiciona exercicio 01 sobre declaracao de variaveis"`
+
+2.  **Envio para o Repositório Remoto**: O `git push` é realizado a cada **5 exercícios** concluídos, agrupando o progresso em blocos.
+
+---
+
+## 🚀 Progresso
+
+* **Total de Exercícios**: 200
+* **Progresso Atual**: [Insira a contagem atual, ex: 5/200]
 
 ---
 
 ## 🤝 Contato
 
-Feito com ❤️ por **daividalves**.
+Feito com ❤️ por **[Seu Nome ou Usuário do GitHub]**.
 
-[**Seu Perfil do LinkedIn**](https://www.linkedin.com/in/[seu-usuario-linkedin])
+[**Seu Perfil do GitHub**](https://github.com/[seu-usuario-github])
