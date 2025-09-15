@@ -36,6 +36,6 @@ Para gerenciar o versionamento, sigo as seguintes regras:
 
 ## 🤝 Contato
 
-Feito com ❤️ por **[Seu Nome ou Usuário do GitHub]**.
+Feito com ❤️ por **daividalves**.
 
 [**Seu Perfil do GitHub**](https://github.com/[seu-usuario-github])
