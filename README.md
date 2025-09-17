@@ -27,10 +27,24 @@ Para gerenciar o versionamento, sigo as seguintes regras:
 
 ---
 
-## 🚀 Progresso
 
-* **Total de Exercícios**: 200
-* **Progresso Atual**: [Insira a contagem atual, ex: 5/200]
+📈 Progresso e Metodologia
+
+O projeto será concluído em etapas, com envios regulares para o GitHub. A cada conjunto de 5 exercícios, um novo push será realizado.
+
+Status:
+
+- [x] Exercícios 01 a 05
+- [ ] Exercícios 06 a 10
+- [ ] Exercícios 11 a 15
+- [ ] Exercícios 16 a 20
+- [ ] Exercícios 21 a 25
+- [ ] Exercícios 26 a 30
+- [ ] Exercícios 31 a 35
+- [ ] Exercícios 36 a 40
+- [ ] Exercícios 41 a 45
+- [ ] Exercícios 46 a 50
+- [ ] Exercícios 51 a 55
 
 ---
 
