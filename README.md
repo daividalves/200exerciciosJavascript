@@ -38,4 +38,4 @@ Para gerenciar o versionamento, sigo as seguintes regras:
 
 Feito por **daividalves**.
 
-[**Seu Perfil do GitHub**](https://github.com/daividalves])
+[**Seu Perfil do GitHub**](https://github.com/daividalves)
