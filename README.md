@@ -35,7 +35,7 @@ O projeto será concluído em etapas, com envios regulares para o GitHub. A cada
 Status:
 
 - [x] Exercícios 01 a 05
-- [ ] Exercícios 06 a 10
+- [x] Exercícios 06 a 10
 - [ ] Exercícios 11 a 15
 - [ ] Exercícios 16 a 20
 - [ ] Exercícios 21 a 25
