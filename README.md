@@ -1,6 +1,6 @@
 # 200 Exercícios de JavaScript
 
-Este é um projeto pessoal dedicado à minha jornada de aprendizado em JavaScript, com o objetivo de completar um total de 200 exercícios de codificação.
+Este é um projeto pessoal que tem como objetivo completar 200 exercícios de codificação em JavaScript.
 
 O projeto segue uma metodologia específica para garantir a organização, a prática constante e o uso de boas práticas de controle de versão com Git.
 
