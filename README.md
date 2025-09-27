@@ -35,21 +35,21 @@ O projeto será concluído em etapas, com envios regulares para o GitHub. A cada
 Status:
 
 - [x] Exercícios 01 a 05
-- [x] Exercícios 06 a 10
-- [x] Exercícios 11 a 15
-- [x] Exercícios 16 a 20
-- [x] Exercícios 21 a 25
-- [x] Exercícios 26 a 30
-- [ ] Exercícios 31 a 35
-- [ ] Exercícios 36 a 40
-- [ ] Exercícios 41 a 45
-- [ ] Exercícios 46 a 50
-- [ ] Exercícios 51 a 55
+- [x] Exercícios 06 a 10 
+- [x] Exercícios 11 a 15 
+- [x] Exercícios 16 a 20 
+- [x] Exercícios 21 a 25 
+- [x] Exercícios 26 a 30 
+- [x] Exercícios 31 a 35 
+- [ ] Exercícios 36 a 40 
+- [ ] Exercícios 41 a 45 
+- [ ] Exercícios 46 a 50 
+- [ ] Exercícios 51 a 55 
 
 ---
-
+    
 ## 🤝 Contato
 
-Feito por **daividalves**.
+Feit o por **daividalves**.
 
 [**Seu Perfil do GitHub**](https://github.com/daividalves)
